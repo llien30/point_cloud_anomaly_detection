@@ -1,0 +1,9 @@
+.vscode
+__pycache__
+libs/__pycache__
+utils/__pycache__
+wandb
+
+libs/emd/build
+libs/emd/dist
+libs/emd/emd.egg-info
